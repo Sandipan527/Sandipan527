@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Sandipan527's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandipan527&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/Sandipan527)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan527r&langs_count=8&layout=compact&count_private=true)](https://github.com/Sandipan527)
+
+
+<!-- ### Hi there 👋-->
 
 <!--
 **Sandipan527/Sandipan527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
