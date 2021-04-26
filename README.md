@@ -1,4 +1,4 @@
-[![Sandipan527's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandipan527&count_private=true&show_icons=true&theme=radical)](https://github.com/Sandipan527)
+[![Sandipan527's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandipan527&count_private=true&show_icons=true&theme=merko)](https://github.com/Sandipan527)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan527&langs_count=8&layout=compact&count_private=true)](https://github.com/Sandipan527)
 
